@@ -1,8 +1,4 @@
-<div align="center">
-   <a href="https://www.cesar.org.br" target="_blank" rel="noreferrer">
-      <img  alt="Cesar" height="300px" style="padding-right:10px;" src="https://www.cesar.org.br/image/layout_set_logo?img_id=1086110&t=1683038460804" />
-  </a>
-</div>
+
 
 <div align="center">
    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
